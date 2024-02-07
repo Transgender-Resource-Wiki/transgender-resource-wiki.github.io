@@ -13,6 +13,7 @@ These topics include:
 * Traveling as a Transgender Person
 * and more
 
-{: .note } Everything in the left menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
+{: .note }
+Everything in the left menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
 
 ###### The content in this wiki is explicity educational only.
