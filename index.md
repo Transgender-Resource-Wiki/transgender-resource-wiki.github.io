@@ -14,4 +14,4 @@ These topics include:
 * and more
 
 
-The content in this wiki is explicity educational only.
+###### The content in this wiki is explicity educational only.
