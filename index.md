@@ -13,7 +13,14 @@ These topics include:
 * Traveling as a Transgender Person
 * and more
 
-{: .note }
+<div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Note</b></p>
+<p style='margin-left:1em;'>
 Everything in the left menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
+</p>
+</span>
+</div>
 
 ###### The content in this wiki is explicity educational only.
