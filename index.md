@@ -13,7 +13,7 @@ These topics include:
 * Traveling as a Transgender Person
 * and more
 
-<div class="warning" style='padding:0.1em; background-color:#7fd9e1; color:#0375aa; border-left: solid #0375aa 4px; border-radius: 4px; padding:0.7em;'>
+<div class="warning" style='padding:0.1em; background-color:#99d7e4; color:#0375aa; border-left: solid #0375aa 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; text-align:left'> Note: </p>
 <p style='margin-left:1em; text-align:left'>
