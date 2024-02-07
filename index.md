@@ -11,7 +11,7 @@ These topics include:
 * Social Transitioning
 * Physical Transitioning
 * Traveling as a Transgender Person
-* and others...
+* and more
 
 
 The content in this wiki is explicity educational only.
