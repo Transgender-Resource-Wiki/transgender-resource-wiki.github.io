@@ -17,7 +17,7 @@ These topics include:
 <span>
 <p style='margin-left:0.5em; text-align:left'> <b>Note: </b></p>
 <p style='margin-left:1em; text-align:left'>
-Everything in the left menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
+Everything in the menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
 </p>
 </span>
 </div>
