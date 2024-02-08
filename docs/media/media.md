@@ -15,7 +15,9 @@ has_children: false
 {: .no_toc .text-delta }
 
 1. TOC
-<ol>{:toc}</ol>
+{:toc}
+
+---
 
 ## News
 
