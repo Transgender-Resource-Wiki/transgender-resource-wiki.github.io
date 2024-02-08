@@ -29,6 +29,8 @@ has_children: false
 
 ### United States
 
+[Erin in the Morning's Informed Consent HRT Map]&#58; Map of informed consent clinics, most of which are in the United States.
+
 [Southern Equality]&#58; Find resources in the south.
 
 ### Germany
@@ -49,9 +51,10 @@ has_children: false
 [The Trevor Project]: https://www.thetrevorproject.org/
 
 [Trans Resources]: https://trans-resources.info/
+[Erin in the Morning's Informed Consent HRT Map]: https://www.erininthemorning.com/p/erins-informed-consent-hrt-map-how
 [Southern Equality]: https://southernequality.org/resources/transinthesouth/
 [Trans DB]: https://transdb.de/
 
 [Erin in the Morning]: https://www.erininthemorning.com/
-[Gender Dysphoria Bible]: https://genderdysphoria.fyi/
+[Gender Dysphoria Bible]: https://genderdysphoria.fyi/en/
 [Stained Glass Woman]: https://stainedglasswoman.substack.com/
