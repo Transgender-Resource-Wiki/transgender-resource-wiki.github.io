@@ -14,7 +14,7 @@ has_children: false
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1.TOC
+1. TOC
 <ol>{:toc}</ol>
 
 ## News
