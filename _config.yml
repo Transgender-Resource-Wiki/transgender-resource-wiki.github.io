@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://transgender-resource-wiki.github.io/
 
+logo: "/assets/favicon.ico"
+
 favicon_ico: "/assets/favicon.ico"
 
 search.heading_level: 3
