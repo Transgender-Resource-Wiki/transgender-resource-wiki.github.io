@@ -13,9 +13,9 @@ These topics include:
 * Traveling as a Transgender Person
 * and more
 
-<div class="warning" style='padding:0.1em; background-color:#99d7e4; color:#0375aa; border-left: solid #0375aa 4px; border-radius: 4px; padding:0.7em;'>
+<div class="warning" style='background-color:#99d7e4; color:#0375aa; border-left: solid #0375aa 4px; border-radius: 12px; padding:0.7em;'>
 <span>
-<p style='margin-top:1em; text-align:left'> Note: </p>
+<p style='margin-left:0.5em; text-align:left'> <b>Note: </b></p>
 <p style='margin-left:1em; text-align:left'>
 Everything in the left menu can be clicked on. For example, clicking on Social Transitioning will bring you to a page with general information on social transitioning. Clicking on the arrow next to it will show its subpages, which provide more specific information.
 </p>
