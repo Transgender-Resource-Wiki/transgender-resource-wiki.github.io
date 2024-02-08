@@ -2,9 +2,11 @@ title: Transgender Resource Wiki
 #description: transgender resource wiki description
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://transgender-resource-wiki.github.io/
 
 favicon_ico: "/assets/favicon.ico"
+
+search.heading_level: 3
 
 aux_links:
   Temp: https://transgender-resource-wiki.github.io/

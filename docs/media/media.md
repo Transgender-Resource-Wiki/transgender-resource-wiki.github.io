@@ -21,27 +21,27 @@ has_children: false
 
 ## Mental Health Resources
 
-<p>[The Trevor Project]&#58; Free mental health support and suicide hotline for LGBTQ people.</p>
+[The Trevor Project]&#58; Free mental health support and suicide hotline for LGBTQ people.
 
 ## Location Specific Resources
 
-<p>[Trans Resources]&#58; Search for local resources by entering a country or state.</p>
+[Trans Resources]&#58; Search for local resources by entering a country or state.
 
 ### United States
 
-<p>[Southern Equality]&#58; Find resources in the south.</p>
+[Southern Equality]&#58; Find resources in the south.
 
 ### Germany
 
-<p>[Trans DB]&#58; Searchable database of medical services in Germany.</p>
+[Trans DB]&#58; Searchable database of medical services in Germany.
 
 ## News & Blog Sites
 
-<p>[Erin in the Morning]&#58; An independent transgender journalist.</p>
+[Erin in the Morning]&#58; An independent transgender journalist.
 
-<p>[Gender Dysphoria Bible]&#58; A wealth of information on gender dysphoria.</p>
+[Gender Dysphoria Bible]&#58; A wealth of information on gender dysphoria.
 
-<p>[Stained Glass Woman]&#58; Essays about being transgender.</p>
+[Stained Glass Woman]&#58; Essays about being transgender.
 
 ## Contribute
 <p>If there are any resources you don't see here that you want added, please email transgenderwiki@protonmail.com.</p>
