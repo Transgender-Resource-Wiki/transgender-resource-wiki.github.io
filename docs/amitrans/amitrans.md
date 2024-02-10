@@ -12,6 +12,22 @@ If you came here expecting an answer to the question above, I'm sorry to say, bu
 
 [Gender Dysphoria Bible: Am I Trans?]&#58; Extremely invaluable resource. It goes over many different thoughts and explains them extremely well.
 
-There's a few more thing's I'm going to put here, I just have to find them first.
+<span style='color:#7253ed'>Turn Me into a </span>[Girl]/[Boy]/[Nonbinary Person]&#58; Would you press the button?
+
+[Transgender Map]&#58; If you're questioning, this site has a lot of thoughts for you to think about.
 
 [Gender Dysphoria Bible: Am I Trans?]: https://genderdysphoria.fyi/en/am-i-trans
+
+[Girl]: https://turn-me-into-a-girl.com/
+[Boy]: https://turn-me-into-a-guy.com/
+[Nonbinary Person]: https://euphorbia-milli.notion.site/euphorbia-milli/Turn-Me-Into-A-Non-Binary-Person-4710c60a76a54347932fca656fb602dc
+
+[Transgender Map]: https://www.transgendermap.com/welcome/for-questioning-readers/
+
+## Mirrors
+
+<p>
+Some content from the above sites are preserved on this wiki, in case the original site goes down, you can still find the content here. Since not all the content is preserved, such as the button from the "Turn me into a ..." site, it is recommended you visit the original site if it is still available.
+</p>
+
+Mirrors will be here in the future.
