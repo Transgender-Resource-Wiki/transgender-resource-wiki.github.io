@@ -10,6 +10,8 @@ favicon_ico: "/assets/favicon.ico"
 
 search.heading_level: 3
 
+nav_external_links_new_tab: true
+
 aux_links:
   Temp: https://transgender-resource-wiki.github.io/
 aux_links_new_tab: true
