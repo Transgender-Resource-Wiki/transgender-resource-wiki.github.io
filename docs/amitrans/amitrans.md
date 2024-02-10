@@ -24,10 +24,14 @@ If you came here expecting an answer to the question above, I'm sorry to say, bu
 
 [Transgender Map]: https://www.transgendermap.com/welcome/for-questioning-readers/
 
+---
+
 ## Mirrors
 
 <p>
 Some content from the above sites are preserved on this wiki, in case the original site goes down, you can still find the content here. Since not all the content is preserved, such as the button from the "Turn me into a ..." site, it is recommended you visit the original site if it is still available.
 </p>
 
-Mirrors will be here in the future.
+[Nightling Bug Twitter Thread]&#58; Thread about not noticing dysphoria at first. Original is listed under the "Turn me into a Girl" website.
+
+[Nightling Bug Twitter Thread]: {% link docs/amitrans/nightlingbug_twitter_thread.md %}
