@@ -40,7 +40,7 @@ Your inherent sense of different-ness from "normal" people makes you think that 
 
 And the awesome news is:
 
-Coming out of the closet, transitioning, and talking to other trans people can help you heal from all of these feelings! For more clarity on the feelings of fake-ness described above, I highly recommend this article on depersonalization by Zinnia Jones, which helped me finally accept that, yes, transitioning might make my life less intensely difficult: [Depersonalization in gender dysphoria].
+Coming out of the closet, transitioning, and talking to other trans people can help you heal from all of these feelings! For more clarity on the feelings of fake-ness described above, I highly recommend this article on depersonalization by Zinnia Jones, which helped me finally accept that, yes, transitioning might make my life less intensely difficult: [Depersonalization in gender dysphoria] 
 </p>
 
 [Depersonalization Article Mirror]  (Wayback Machine)
