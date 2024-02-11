@@ -14,7 +14,7 @@ The genderbread is designed to be a teaching tool about gender. Unfortunately, t
 [Genderbread Poster v3.3 Minimal](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v33-minimal){: .btn .btn-blue }
 
 [Personne Gingenre v3.3](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#personne-gingenre-v33){: .btn .btn-blue }
-[Genderbread Worksheet](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v4-worksheet-with-guide){: .btn .btn-blue }
+[Genderbread Worksheet](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v4-worksheet-with-guide){: .btn .btn-green }
 
 [Does the Genderbread Person Exclude Genderfluid People?](https://www.itspronouncedmetrosexual.com/articles/genderbread-person-and-genderfluidity/){: .btn .btn-blue }
 [Mirror](){: .btn .btn-purple }
@@ -31,7 +31,7 @@ So, you want to better understand gender, or need help explaining it to someone 
 Used by — and contributed to by — countless people around the world and throughout the decades, the genderbread person (and all of the different evolutions of it, and ideas it evolved from) is a wonderful way to start an important conversation.
 </p>
 
-![](/assets/images/genderbread/gender-does-not-equal-sex-fixed.png)
+![](/assets/images/genderbread/gender-does-not-equal-sex.png)
 
 <p>
 While the versions created by Sam Killermann (many of which are featured on this site), are the most popular, the idea goes far beyond him, and is a creation of the commons.
@@ -69,7 +69,6 @@ Like sex, attraction isn’t really a component of gender. However, we often con
 ![](/assets/images/genderbread/Genderbread-Person-v4-Worksheet.png)
 
 [Guide](https://thesafezoneproject.com/activities/genderbread-person/){: .btn .btn-blue }
-
 [Mirror](/assets/images/genderbread/Genderbread-Person-1.pdf){: .btn .btn-purple }
 
 ## Personne Gingenre v3.3
