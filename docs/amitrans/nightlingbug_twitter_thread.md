@@ -1,5 +1,5 @@
 ---
-title: Gender Dysphoria Twitter Thread by Nightling bug
+title: Gender Dysphoria Twitter Thread by Nightling Bug
 layout: default
 nav_exclude: true
 ---
