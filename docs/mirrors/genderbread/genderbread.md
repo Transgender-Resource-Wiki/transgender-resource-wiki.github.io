@@ -34,7 +34,43 @@ While the versions created by Sam Killermann (many of which are featured on this
 </p>
 
 ## Anatomical Sex
+<p>
+Sex (sometimes called biological sex, anatomical sex, or physical sex) is comprised of things like genitals, chromosomes, hormones, body hair, and more. But one thing it’s not: gender.
+</p>
+
+## Gender Identity
+<p>
+Your psychological sense of self. Who you, in your head, know yourself to be, based on how much you align (or don’t align) with what you understand to be the options for gender.
+</p>
+
+## Gender Expression
+<p>
+The ways you present gender, through your actions, clothing, demeanor, and more. Your outward-facing self, and how that’s interpreted by others based on gender norms.
+</p>
+
+## Attraction
+<p>
+Like sex, attraction isn’t really a component of gender. However, we often conflate sexual orientation with gender, or categorize the attraction we experience in gendered ways.
+</p>
 
 # Genderbread Posters
 
-link for later
+## Genderbread Person v4
+![](/assets/images/genderbread/Genderbread-Person-v4-Poster.png)
+
+## Genderbread Person v4 Worksheet with Guide
+![](/assets/images/genderbread/Genderbread-Person-v4-Worksheet.png)
+
+[Guide] <- Link to original website
+
+[Mirror1](https://github.com/Transgender-Resource-Wiki/transgender-resource-wiki.github.io/tree/main/assets/images/genderbread/Genderbread-Person-1.pdf)
+
+[Mirror2](/assets/images/genderbread/Genderbread-Person-1.pdf)
+
+## Genderbread Person v3.3 Minimal
+![](/assets/images/genderbread/Genderbread-Person-3.3-Minimal.jpg)
+
+## Personne Gingenre v3.3
+![](/assets/images/genderbread/Personne-Gingenre-3.3-1.jpg)
+
+[Guide]: https://thesafezoneproject.com/activities/genderbread-person/
