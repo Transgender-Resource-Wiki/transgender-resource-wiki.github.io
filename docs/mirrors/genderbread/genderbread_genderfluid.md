@@ -4,6 +4,8 @@ layout: default
 nav_exclude: true
 ---
 
+[← Back]({% link docs/mirrors/genderbread/genderbread.md %}){: .btn .btn-purple }
+
 This article is by [Sam Killermann](https://www.samkillermann.com/) and can also be found [here](https://www.itspronouncedmetrosexual.com/articles/genderbread-person-and-genderfluidity/). If you like this article, consider supporting its author. Note that the links on this page currently do not have a mirror.
 
 # Does the Genderbread Person exclude genderfluid people?
@@ -60,4 +62,4 @@ You are invited to see yourself as existing anywhere along any of the continua (
 For example, on the gender identity scales, you might see yourself as existing <i>between</i> the roughly 20% point and 60% point of “woman-ness” <b>and</b> 40% point and 80% point on the “man-ness.”
 </p>
 <img src="/assets/images/genderbread/fluidity/genderbread-person-fluid-identity-scales.jpg" alt="Scales Showing Genderfluidity">
-<span style="font-size:0.8em">How you might plot that example.</span>
+<p style="font-size:0.8em">How you might plot that example.</p>
