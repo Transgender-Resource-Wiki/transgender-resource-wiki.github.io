@@ -63,9 +63,7 @@ Like sex, attraction isn’t really a component of gender. However, we often con
 
 [Guide] <- Link to original website
 
-[Mirror1](https://github.com/Transgender-Resource-Wiki/transgender-resource-wiki.github.io/tree/main/assets/images/genderbread/Genderbread-Person-1.pdf)
-
-[Mirror2](/assets/images/genderbread/Genderbread-Person-1.pdf)
+[Guide Mirror](/assets/images/genderbread/Genderbread-Person-1.pdf)
 
 ## Genderbread Person v3.3 Minimal
 ![](/assets/images/genderbread/Genderbread-Person-3.3-Minimal.jpg)
