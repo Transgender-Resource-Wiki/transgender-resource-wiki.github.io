@@ -10,7 +10,10 @@ The genderbread is designed to be a teaching tool about gender. Unfortunately, t
 
 ---
 
-[Genderbread Posters](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-posters){: .btn .btn-blue }
+[Genderbread Poster v4](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-posters){: .btn .btn-blue }
+[Genderbread Worksheet](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v4-worksheet-with-guide){: .btn .btn-blue }
+[Genderbread Poster v3.3 Minimal](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v33-minimal){: .btn .btn-blue }
+[Personne Gingenre v3.3](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#personne-gingenre-v33){: .btn .btn-blue }
 
 [Does the Genderbread Person Exclude Genderfluid People?](https://www.itspronouncedmetrosexual.com/articles/genderbread-person-and-genderfluidity/){: .btn .btn-blue }
 [Mirror](){: .btn .btn-purple }
@@ -61,7 +64,7 @@ Like sex, attraction isn’t really a component of gender. However, we often con
 ## Genderbread Person v4 Worksheet with Guide
 ![](/assets/images/genderbread/Genderbread-Person-v4-Worksheet.png)
 
-[Guide] <- Link to original website
+[Guide] ← Link to original website
 
 [Guide Mirror](/assets/images/genderbread/Genderbread-Person-1.pdf)
 
