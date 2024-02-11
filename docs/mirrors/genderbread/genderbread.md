@@ -27,7 +27,7 @@ So, you want to better understand gender, or need help explaining it to someone 
 Used by — and contributed to by — countless people around the world and throughout the decades, the genderbread person (and all of the different evolutions of it, and ideas it evolved from) is a wonderful way to start an important conversation.
 </p>
 
-![](../../assets/images/genderbread/gender-does-not-equal-sex.png)
+![](/assets/images/genderbread/gender-does-not-equal-sex.png)
 
 <p>
 While the versions created by Sam Killermann (many of which are featured on this site), are the most popular, the idea goes far beyond him, and is a creation of the commons.
