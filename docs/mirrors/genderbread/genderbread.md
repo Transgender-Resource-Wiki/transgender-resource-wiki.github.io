@@ -6,7 +6,7 @@ nav_exclude: true
 
 # The Genderbread
 
-The genderbread is designed to be a teaching tool about gender. Unfortunately, the website is no longer up. Fortunately however, you are still able to view the site content here.
+The genderbread is designed to be a teaching tool about gender. Unfortunately, the website (genderbread.org) is no longer up. Fortunately however, you are still able to view the site content here.
 
 ---
 
@@ -17,7 +17,7 @@ The genderbread is designed to be a teaching tool about gender. Unfortunately, t
 [Genderbread Worksheet](https://transgender-resource-wiki.github.io/docs/mirrors/genderbread/genderbread.html#genderbread-person-v4-worksheet-with-guide){: .btn .btn-green }
 
 [Does the Genderbread Person Exclude Genderfluid People?](https://www.itspronouncedmetrosexual.com/articles/genderbread-person-and-genderfluidity/){: .btn .btn-blue }
-[Mirror](){: .btn .btn-purple }
+[Mirror]({% link docs/mirrors/genderbread/genderbread_genderfluid.md %}){: .btn .btn-purple }
 
 ---
 
