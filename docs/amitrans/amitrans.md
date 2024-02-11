@@ -16,6 +16,8 @@ If you came here expecting an answer to the question above, I'm sorry to say, bu
 
 [Transgender Map]&#58; If you're questioning, this site has a lot of thoughts for you to think about.
 
+[The Genderbread (Mirror)]&#58; An educational tool for understanding gender.
+
 [Gender Dysphoria Bible: Am I Trans?]: https://genderdysphoria.fyi/en/am-i-trans
 
 [Girl]: https://turn-me-into-a-girl.com/
@@ -23,6 +25,8 @@ If you came here expecting an answer to the question above, I'm sorry to say, bu
 [Nonbinary Person]: https://euphorbia-milli.notion.site/euphorbia-milli/Turn-Me-Into-A-Non-Binary-Person-4710c60a76a54347932fca656fb602dc
 
 [Transgender Map]: https://www.transgendermap.com/welcome/for-questioning-readers/
+
+[The Genderbread (Mirror)]: {% link docs/mirrors/genderbread/genderbread.md %}
 
 ---
 
