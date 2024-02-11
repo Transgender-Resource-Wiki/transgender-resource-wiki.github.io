@@ -34,4 +34,4 @@ Some content from the above sites are preserved on this wiki, in case the origin
 
 [Nightling Bug Twitter Thread]&#58; Thread about not noticing dysphoria at first. Original is listed under the "Turn me into a Girl" website and can also be found on Twitter @NightlingBug.
 
-[Nightling Bug Twitter Thread]: {% link docs/amitrans/nightlingbug_twitter_thread.md %}
+[Nightling Bug Twitter Thread]: {% link docs/mirrors/nightlingbug_twitter_thread.md %}
