@@ -11,6 +11,7 @@ The genderbread is designed to be a teaching tool about gender. Unfortunately, t
 ---
 
 [Genderbread Posters](https://transgender-resource-wiki.github.io/docs/amitrans/genderbread.html#genderbread-posters){: .btn .btn-blue }
+
 [Does the Genderbread Person Exclude Genderfluid People?](https://www.itspronouncedmetrosexual.com/articles/genderbread-person-and-genderfluidity/){: .btn .btn-blue }
 [Mirror](){: .btn .btn-purple }
 
