@@ -59,5 +59,5 @@ You are invited to see yourself as existing anywhere along any of the continua (
 <p>
 For example, on the gender identity scales, you might see yourself as existing <i>between</i> the roughly 20% point and 60% point of “woman-ness” <b>and</b> 40% point and 80% point on the “man-ness.”
 </p>
-<img src="assets/images/genderbread/fluidity/genderbread-person-fluid-identity-scales.jpg" alt="Scales Showing Genderfluidity">
+<img src="/assets/images/genderbread/fluidity/genderbread-person-fluid-identity-scales.jpg" alt="Scales Showing Genderfluidity">
 <span style="font-size:0.8em">How you might plot that example.</span>
