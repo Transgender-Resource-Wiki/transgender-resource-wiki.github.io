@@ -35,7 +35,7 @@ One of the goals of this wiki is to preserve resources in case the original is n
 ## Questions?
 
 ### Are the mirrors plagiarism?
-<br/><p>
+<p>
 No, the mirrors are not plagiarism.
 </p>
 <p>
@@ -45,11 +45,11 @@ Additionally, the mirrors fall under fair use as the mirrors are being used for 
 </p>
 
 ### Who maintains this library?
-<br/><p>
+<p>
 There is currently one person who is maintaining the library. She is transgender herself. If you would like to inform us of a resource you would like added or of an error, please contact us at the email listed on this page.
 </p>
 
 ### How can I contact this library?
-<br/><p>
+<p>
 Our email is transgenderwiki@protonmail.com. We will try to check it at least a few times a month.
 </p>
