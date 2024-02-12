@@ -18,9 +18,16 @@ and was originally made by Marcy. It is <b>highly</b> recommended that you use t
     <li>Slightly changed the section about passing, as I felt that the concept of passing is now not commonly regarded as a necessary part of being trans/non-binary <3 However, I left the idea of being able to learn to pass in case it still proves helpful to anyone.</li>
     <li>Changed the section about being uncertain of the non-binary label to suggest the possibility of being a binary trans man/woman (in the originals, the non-binary label is suggested to binary trans men/women.)</li>
 </ol>
+
 <ul>
     <li>“agab” means “assigned gender at birth.”</li>
-    <li>if you see any errors in any of these pages, please comment or contact me through reddit (u/mellowestmarcy) and I will correct it.</li>
+    <li>if you see any errors in any of these pages, please comment or contact me through reddit (u/mellowestmarcy) and I will correct it.<br/>
+    <b>*Note from the Transgender Resource Library: Do not contact the above to fix errors on <i>this</i> page. The above line was left to:
+        <ol>
+            <li>Give credit to the original creator.</li>
+            <li>Preserve the original site content.</li>
+        </ol>
+    If you see any errors on <i>this</i> page please contact the Transgender Resource Library. You may still contact the above if you find errors on the original site.</b></li>
     <li>as an alternative to pressing this button, you may also try looking through the pages linked above and raging :)</li>
     <li>it’s your life and your decisions! wish you the best on your self-discovery :)</li>
 </ul>
