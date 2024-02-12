@@ -23,6 +23,6 @@ Everything in the menu can be clicked on. For example, clicking on Social Transi
 </span>
 </div>
 
-###### The content in this wiki is explicity for educational purposes only.
+###### The content in this library is explicity for educational purposes only.
 
 Contact: transgenderwiki@protonmail.com
