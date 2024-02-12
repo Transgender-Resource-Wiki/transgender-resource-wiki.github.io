@@ -23,9 +23,9 @@ nav_exclude: true
 
 ---
 
-[I want to be non-binary!]({% link docs/mirrors/turn_me_nonbinary/congrats.md %}){: .btm .btn-purple}
+[I want to be non-binary!]({% link docs/mirrors/turn_me_nonbinary/congrats.md %}){: .btn .btn-purple}
 
-[No, wait! This isn't for me!]({% link docs/mirrors/turn_me_nonbinary/this_isnt_for_me.md %}){: .btm .btn-blue}
+[No, wait! This isn't for me!]({% link docs/mirrors/turn_me_nonbinary/this_isnt_for_me.md %}){: .btn .btn-blue}
 
 ---
 

@@ -11,4 +11,4 @@ nav_exclude: true
 <p>No pressure. You are completely valid no matter who you are. We'll always be here for you if you ever want to come back later.</p>
 </div>
 
-[← Turn Me Into A Non-Binary Person!]({% link docs/mirrors/turn_me_nonbinary/turn_me_nonbinary.md %}){: .btm .btn-purple}
+[← Turn Me Into A Non-Binary Person!]({% link docs/mirrors/turn_me_nonbinary/turn_me_nonbinary.md %}){: .btn .btn-purple}
