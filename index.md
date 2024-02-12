@@ -40,7 +40,7 @@ No, the mirrors are not plagiarism.
 </p>
 <p>
 According to Oregon State University, "Title 17, section 108 of the U.S. Code permits libraries and archives to use copyrighted material in specific ways without permission from the copyright holder" (<a href="https://guides.library.oregonstate.edu/copyright/libraries">Oregon State University, 2024</a>).
-<br/>
+<br/><br/>
 Additionally, the mirrors fall under fair use as the mirrors are being used for nonprofit educational purposes. See <a href="https://www.law.cornell.edu/uscode/text/17/107">Cornell Law School</a>.
 </p>
 
