@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Welcome to the Transgender Resource Library
-This wiki aims the provide accurate and up-to-date information about transgender topics and resources.
+This library aims the provide accurate and up-to-date information about transgender topics and resources.
 
 These topics include:
 * Am I Transgender?
