@@ -14,8 +14,6 @@ These topics include:
 * Traveling as a Transgender Person
 * and more
 
-
-<br/>
 <div class="warning" style='background-color:#99d7e4; color:#0375aa; border-left: solid #0375aa 4px; border-radius: 12px; padding:0.7em;'>
 <span>
 <p style='margin-left:0.5em; text-align:left'> <b>Note: </b></p>
