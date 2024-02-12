@@ -37,11 +37,13 @@ One of the goals of this wiki is to preserve resources in case the original is n
 ### Are the mirrors plagiarism?
 <p>
 No, the mirrors are not plagiarism.
+<br/><br/>
+The University of Oxford defines plagiarism as, "Presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement" (<a href="https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism">University of Oxford, 2024</a>).
+<br/><br/>
+The Transgender Resource Library always credits the author of the mirror above the mirrored document, along with a link to the original source. If there is no credit, that is a mistake. If you notice a mirror with no credit, please email us so we can fix it.
 </p>
 <p>
-According to Oregon State University, "Title 17, section 108 of the U.S. Code permits libraries and archives to use copyrighted material in specific ways without permission from the copyright holder" (<a href="https://guides.library.oregonstate.edu/copyright/libraries">Oregon State University, 2024</a>).
-<br/><br/>
-Additionally, the mirrors fall under fair use as the mirrors are being used for nonprofit educational purposes. See <a href="https://www.law.cornell.edu/uscode/text/17/107">Cornell Law School</a>.
+Additionally, according to Oregon State University, "Title 17, section 108 of the U.S. Code permits libraries and archives to use copyrighted material in specific ways without permission from the copyright holder" (<a href="https://guides.library.oregonstate.edu/copyright/libraries">Oregon State University, 2024</a>). The mirrors also fall under fair use as the mirrors are being used for nonprofit educational purposes. See <a href="https://www.law.cornell.edu/uscode/text/17/107">Cornell Law School</a>.
 </p>
 
 ### Who maintains this library?
