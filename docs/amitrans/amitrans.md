@@ -42,9 +42,9 @@ has_children: false
 </div>
 [Turn Me into a Nonbinary Person]&#58; - Mirrored here since the Wayback Machine wasn't able to properly preserve it.
 
-[Turn Me into a Nonbinary Person]: {% docs/mirrors/turn_me_nonbinary/turn_me_nonbinary.md %}
+[Turn Me into a Nonbinary Person]: {% link docs/mirrors/turn_me_nonbinary/turn_me_nonbinary.md %}
 <div>
 <p><a href="https://web.archive.org/web/20240212050920/https://www.transgendermap.com/welcome/for-questioning-readers/">Transgender Map</a>: - Mirror on Wayback Machine</p>
 
 <p><a href="https://web.archive.org/web/20240127101844/https://freethoughtblogs.com/nataliereed/2012/04/17/the-null-hypothecis/">The Null HypotheCis</a>: - Mirror on Wayback Machine</p>
-</div>
+</div> 
