@@ -34,7 +34,7 @@ Unfortunately, as transgender people, we have to watch out for our safety and do
             <li>Paraguay</li>
             <li>Philippines</li>
             <li>Venezuela</li>
-        <ul>
+        </ul>
     </span>
 </div>
 
