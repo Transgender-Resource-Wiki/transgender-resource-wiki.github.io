@@ -13,7 +13,7 @@ Unfortunately, as transgender people, we have to watch out for our safety and do
     <span>
         <p style='margin-left:0.5em; text-align:left'> <b>DO NOT TRAVEL WARNINGS: </b></p>
         <p style='margin-left:1em; text-align:left'>
-        Absolutely do not travel to the following places for any reason. Also note that just because an a place is not listed here that doesn't mean it is safe. These are just the most dangerous places. Refer to the resources below to see every countries' safety level.
+        Absolutely do not travel to the following places for any reason. Also note that just because a place is not listed here that doesn't mean it is safe. These are just the most dangerous places. Refer to the resources below to see every countries' safety level.
         </p>
         <ul>
             <li>Entire Middle East</li>
