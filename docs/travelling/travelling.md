@@ -52,15 +52,19 @@ Wherever you decide to go, try to stick to cities, as the people there tend to b
 
 [Travel while Trans]&#58; Information on laws affecting transgender people. Covers Canada, Mexico, New Zealand, and USA. 
 
+### USA
+
 [Erin in the Morning's Trans Legislative Risk Map]&#58; Map of states with protections and states with anti-trans laws.
 
 [USA LGBT Restroom Map]&#58; Map of states where using the "wrong" restroom is illegal.
 
 [USA LGBT Equality Map]&#58; Make sure to select Gender Identity tab to view map for transgender equality specifically.
 
+[Airport Security FAQ]&#58; Answers many common questions you may have about airport security.
 
+[TSA "Cares"]&#58; Official TSA instructions for transgender travellers.
 
-
+[USA International LGBTQ Travel Guide]&#58; Official USA government guide/advisories for LGBTQ people travelling internationally.
 
 
 
@@ -72,10 +76,11 @@ Wherever you decide to go, try to stick to cities, as the people there tend to b
 [World Transgender Rights Index]: https://www.asherfergusson.com/global-trans-rights-index/
 [LGBTQ World Travel Safety Map]: https://www.asherfergusson.com/lgbtq-travel-safety/
 [Travel while Trans]: https://travelwhiletrans.com/#/
+
 [Erin in the Morning's Trans Legislative Risk Map]: https://www.erininthemorning.com/p/june-anti-trans-legislative-risk
 [USA LGBT Restroom Map]: https://www.lgbtmap.org/equality-maps/nondiscrimination/bathroom_bans
 [USA LGBT Equality Map]: https://www.lgbtmap.org/equality-maps
 
-
-
-
+[Airport Security FAQ]: https://transequality.org/know-your-rights/airport-security
+[TSA "Cares"]: https://www.tsa.gov/travel/tsa-cares/gender-diversity
+[USA International LGBTQ Travel Guide]: https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgbtqi.html
