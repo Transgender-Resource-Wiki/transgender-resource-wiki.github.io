@@ -40,7 +40,8 @@ Unfortunately, as transgender people, we have to watch out for our safety and do
 
 ## Where is safe?
 
-Wherever you decide to go, try to stick to cities, as the people there tend to be more progressive and accepting than in the countryside. Some safe places you can travel to include United States (Blue States Only; avoid connecting flights in red states), Canada, Western & Northern Europe, Australia, and New Zealand. In the following places you will probably be fine, but will need to be cautious about certain things. Japan (People may stare; avoid onsen w/o bottom surgery), The UK (AKA FART Island[^1]), Taiwan, Thailand, & Malta (People may stare, especially older people, but violence very unlikely; stick to tourist areas).
+<p>Wherever you decide to go, try to stick to cities, as the people there tend to be more progressive and accepting than in the countryside. Some safe places you can travel to include the United States (Blue states only; avoid connecting flights in red states), Canada, Western & Northern Europe, Australia, and New Zealand.</p> 
+<p>In the following places you will probably be fine, but will need to be cautious about certain things. People may stare, especially older people, but violence is very unlikely; try to stick to tourist areas. Japan (avoid onsen w/o bottom surgery), the UK (AKA FART Island[^1]), Taiwan, Thailand, & Malta.</p>
 
 ## Resource Links
 
