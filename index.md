@@ -4,8 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to the Transgender Resource Library
-This library aims to provide accurate and up-to-date information about transgender topics and resources. It is primarily a large collection of links to other resources and is inspired by the sidebar wikis seen on social media sites such as lemmy or reddit. It also contains some knowledge and widsom that the author(s) have gleaned over their years of being trans.
+## Welcome to the Transgender Resource Library
+&nbsp;This library aims to provide accurate and up-to-date information about transgender topics and resources. It is primarily a large collection of links to other resources and is inspired by the sidebar wikis seen on social media sites such as lemmy or reddit. It also contains some knowledge and widsom that the author(s) have gleaned over their years of being trans.
 
 These topics include:
 * Am I Transgender?
