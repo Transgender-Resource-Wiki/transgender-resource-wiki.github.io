@@ -9,7 +9,7 @@ has_children: false
 {: .no_toc }
 
 <p>Besides this page, there are many others that you may also find useful.</p>
-<p style='font-size:0.8em'>Transgender Resource Wiki is not affiliated with any of the sites listed here.</p>
+<p style='font-size:0.8em'>Transgender Resource Library is not affiliated with any of the sites listed here.</p>
 
 ## Table of Contents
 {: .no_toc .text-delta }
