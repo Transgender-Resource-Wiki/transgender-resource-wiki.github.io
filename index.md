@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<p style="text-align:center; font-size:1.2em">Welcome to the Transgender Resource Library</p>
+<p style="text-align:center; font-size:1.5em"><b>Welcome to the Transgender Resource Library</b></p>
 This library is a collection of resources and knowledge pertinent to transgender people and their allies. It is inspired by the sidebar wikis seen on social media sites such as Lemmy. Sidebars aren't that great for organizing information, which is why this website was created.
 
 These topics include:
