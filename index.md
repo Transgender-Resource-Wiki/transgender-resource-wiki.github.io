@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <h1 style="text-align:center">Welcome to the Transgender Resource Library</h1>
-This library aims to provide accurate and up-to-date information about transgender topics and resources. It is primarily a large collection of links to other resources and is inspired by the sidebar wikis seen on social media sites such as lemmy or reddit. It also contains some knowledge and widsom that the author(s) have gleaned over their years of being trans.
+This library is a collection of resources and knowledge pertinent to transgender people and their allies. It is inspired by the sidebar wikis seen on social media sites such as Lemmy. Sidebars aren't that great for organizing information, which is why this website was created.
 
 These topics include:
 * Am I Transgender?
