@@ -9,7 +9,7 @@ parent: Social Transitioning
 For general information on social transitioning, see this page: [Social Transitioning].
 
 # Social Transitioning for Transfeminine People
-{: .no-toc }
+{: .no_toc }
 
 ## Table of Contents
 {: .no_toc .text-delta }
