@@ -14,7 +14,7 @@ has_children: true
 <p style="margin-left:0.5em; text-align:left"> <b>Note: </b></p>
 <p style="margin-left:1em; text-align:left">
 Voice can be changed via voice training, which doesn't require hormones* or surgery, although those two things can be used to change the voice as well.
-</p><p style="margin-left:1em; font-size:0.8em">
+</p><p style="margin-left:2em; font-size:0.8em">
 *Masculinizing hormones will affect voice, feminizing hormones do not.
 </p>
 </span>
