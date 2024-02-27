@@ -13,6 +13,8 @@ For general information on social transitioning, see this page: [Social Transiti
 
 Transfeminine is an umbrella term for people who were assigned male at birth and are partially or fully feminine. They may be trans women, nonbinary, genderfluid, or any other gender that a feminine person who is AMAB may have. It is entirely up to you to determine if you are transfeminine or not.
 
+---
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
