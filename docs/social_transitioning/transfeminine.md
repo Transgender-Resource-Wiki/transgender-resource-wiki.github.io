@@ -8,8 +8,10 @@ parent: Social Transitioning
 
 For general information on social transitioning, see this page: [Social Transitioning].
 
-# Social Transitioning for Transfeminine People
+# Transfeminine Social Transitioning
 {: .no_toc }
+
+Transfeminine is an umbrella term for people who were assigned male at birth and are partially or fully feminine. They may be trans women, nonbinary, genderfluid, or any other gender that a feminine person who is AMAB may have. It is entirely up to you to determine if you are transfeminine or not.
 
 ## Table of Contents
 {: .no_toc .text-delta }
@@ -21,15 +23,24 @@ For general information on social transitioning, see this page: [Social Transiti
 
 ## Pronouns
 
+The majority of transfeminine people use she/her pronouns. Some may also use they/them, neopronouns, a combination (e.g., she/her and they/them), or any pronouns. Some people may decide to not change their pronouns and stick with using he/him. It is up to you if you want to change your pronouns and what to change them to. Your decision is not permanent and you can change your pronouns whenever you feel like. If you aren't sure and feel safe to do so, you can ask people to try using the pronouns you think you might like to see how you feel being called them. Even if you are sure, it can still be very euphoric to be called the pronouns you want to be called. There are many online communities for transgender people that would be happy to help you try out pronouns as well.
+
 ## Name
 
-## Clothes
+Some transfeminine people choose to change their name and some don't. If they do change their name, it is typically to a feminine or gender neutral name. Some may look online at lists of names, ask their parents to pick their name, pick a name from their favorite video game or movie, or choose a name that they heard long ago that has stuck with them. There are many ways to pick a name, or maybe you don't pick a new name at all, and whatever decision you make is completely valid. Your decision isn't permanent and if you decide you don't like the name you have anymore, you can choose a different one. If you do decide to change your name, it is common to end up with multiple names you can't decide between. To narrow down your list, try out each name to see how much you like it. There are many ways to try out names, such as using them in a video game, on a delivery address, or by asking friends and family to use them. Of course, only do what you feel safe and comfortable doing. There are also many online communities for transgender people that would be happy to help you try out names as well. 
+
+## Clothes / Style
+
+Transfeminine people typically change at least some aspect of their style, be it clothes, accessories, makeup, hair, etc. Just because someone is transfeminine, it does not mean that they have to be a stereotypical girly-girl, although they can be that if they want to. If you aren't sure if you want to change part of your style or what to change it to, that is fine and it is completely normal to experiment with clothes, makeup, hair, etc. Drugstores are typically a good place to go to get cheaper makeup if that is something you want to try out. You can also get cheap clothes to try out from thrift stores or you can just window shop if you like. If you are interested in skintight clothing, you may also be interested in tucking and gaffes.
+
+### Tucking, Gaffes, & Tape
+If you are wanting to achieve a smooth appearance in the groin region, there are a few ways to do it without surgery. One is to use a gaffe, which is essentially just underwear with some padding in the front that helps flatten out that area. Another, which you can use by itself or with a gaffe is called tucking. To do this, you will need to push your testicles into your inguinal canals. You have one on the left and right side of your pelvis and they are where your testicles originally descended from. Now that your testicles are out of the way, you can pull your penis down towards your perineum. You'll need to use a gaffe, tight underwear (but not so tight it hurts), or tucking tape to help keep it in place. Tucking should not be painful. If it is, you should untuck and wait until it no longer hurts to try again. If you decide to use tucking tape, be aware that it is a specific type of tape. Do <b>not</b> use packing tape, duct tape, etc., only use tucking tape. Tucking tape can also be annoying to take off every time you have to pee and it can still be uncomfortable or even painful to take off for some given that the penis is a sensitive area. I strongly recommend using a gaffe instead.
 
 ## Voice
 
 For transfeminine people, taking feminizing hormones will not feminize your voice. If you want to change your voice, you will either have to do voice training and or get surgery. Surgery is not necessary although it can be helpful for some people. If you want to feminize your voice, you should try to do so by voice training first before deciding to get surgery. Some great Youtube channels to get you started are [TransVoiceLessons], [Seattle Voice Lab], and [Undead Voice Lab]. There are many others you can use as well and some even have personalized lessons.
 
-There are three primary aspects of your voice to change in order to feminize it. These are pitch, vocal weight, and resonance. Essentially, what you are trying to do is heighten pitch, shrink the space in your throat, and raise your larynx. Doing all of that right from the get-go is very difficult, so focus on just one aspect at a time. It is important to use guides to make sure you aren't doing something that is actually harming your voice.
+There are three primary aspects of your voice to change in order to feminize it. These are pitch, vocal weight, and resonance. Essentially, what you are trying to do is heighten pitch, shrink the space in your throat and mouth, and raise your larynx. Doing all of that right from the get-go is very difficult, so focus on just one aspect at a time. It is important to use guides to make sure you aren't doing something that is actually harming your voice.
 
 ### Pitch
 
