@@ -37,6 +37,10 @@ Some transfeminine people choose to change their name and some don't. If they do
 
 [Translifeline's ID Change Library]&#58; Database of forms and documents related to changing your ID.
 
+#### Canada
+
+[JusticeTrans Legal Information]&#58; Contains more information than for just name changes. You might have to scroll down a little bit to find it.
+
 ## Appearance
 
 It is very common for transfeminine people to change at least some aspect of their appearance, be it clothes, accessories, makeup, hair, etc. Just because someone is transfeminine, it does not mean that they have to be a stereotypical girly-girl, although they can be that if they want to. If you aren't sure if you want to change part of your style or what to change it to, that is fine and it is completely normal to experiment with clothes, makeup, hair, etc. Drugstores are typically a good place to go to get cheaper makeup if that is something you want to try out. Additionally, you can also get cheaper clothes to try out from thrift stores or you can just window shop if you like. If you are interested in skintight clothing, you may also be interested in tucking and gaffs. 
@@ -67,6 +71,7 @@ Voice training is something that will take a few months to get the hang of and p
 [Social Transitioning]: {% link docs/social_transitioning/social_transitioning.md %}
 
 [Translifeline's ID Change Library]: https://translifeline.org/resources/id-change-library/#namechange
+[JusticeTrans Legal Information]: https://justicetrans.org/en/provincial-info/
 
 [TransVoiceLessons]: https://www.youtube.com/@TransVoiceLessons
 [Seattle Voice Lab]: https://www.youtube.com/@seattlevoicelab
