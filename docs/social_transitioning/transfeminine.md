@@ -31,15 +31,15 @@ Many transfeminine people use she/her pronouns. Some may also use they/them, neo
 
 Some transfeminine people choose to change their name and some don't. If they do change their name, it is typically to a feminine or gender neutral name. Some may look online at lists of names, ask their parents to pick their name, pick a name from their favorite video game or movie, or choose a name that they heard long ago that has stuck with them. There are many ways to pick a name, or maybe you don't pick a new name at all, and whatever decision you make is completely valid. Your decision isn't permanent and if you decide you don't like the name you have anymore, you can choose a different one. If you do decide to change your name, it is common to end up with multiple names you can't decide between. To narrow down your list, try out each name to see how much you like it. There are many ways to try out names, such as using them in a video game, on a delivery address, or by asking friends and family to use them. Of course, only do what you feel safe and comfortable doing. There are also many online communities for transgender and gender nonconforming people that would be happy to help you try out names as well. 
 
-### Name Change Resources
+## Name & Gender Change Resources
 
-#### United States
+### United States
 
 [Translifeline's ID Change Library]&#58; Database of forms and documents related to changing your ID.
 
-#### Canada
+### Canada
 
-[JusticeTrans Legal Information]&#58; Contains more information than for just name changes. You might have to scroll down a little bit to find it.
+[JusticeTrans Legal Information]&#58; Contains more information than just for name and gender changes. You might have to scroll down a little bit to find it.
 
 ## Appearance
 
