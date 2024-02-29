@@ -5,7 +5,7 @@ nav_exclude: true
 has_children: false
 ---
 
-<!--&#10060; is a red x | &#9989; is a green check-->
+<!--&#10060; is a red x | &#9989; is a green check | &#10067; is a red ?-->
 
 # Name Change Information | United States
 {: .no_toc }
@@ -171,7 +171,37 @@ has_children: false
 
 ## G
 
+[Georgia]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Georgia]: https://georgia.gov/apply-name-change
+
 ## H
+
+[Hawaii]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th style="text-align:center">Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10067;<br/><span style="font-size:0.8em;">(Form cannot be accessed without making an account)</span></td>
+  </tr>
+</table> 
+
+[Hawaii]: https://namechange.ehawaii.gov/public/welcome.html
 
 ## I
 
