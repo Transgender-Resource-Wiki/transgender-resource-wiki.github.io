@@ -53,7 +53,7 @@ If you are wanting to achieve a smooth appearance in the groin region, there are
 
 ## Voice
 
-For transfeminine people, taking feminizing hormones will not feminize your voice. If you want to change your voice, you will either have to do voice training and or get surgery. Surgery is not necessary although it can be helpful for some people. If you want to feminize your voice, you should try to do so by voice training first before deciding to get surgery. Some great Youtube channels to get you started are [TransVoiceLessons], [Seattle Voice Lab], and [Undead Voice Lab]. There are many others you can use as well and some even have personalized lessons.
+For transfeminine people, taking feminizing hormones will not feminize your voice. If you want to change your voice, regardless of whether you plan on taking feminizing hormones or not, you will either have to do voice training and/or get surgery. Surgery is not necessary although it can be helpful for some people. If you want to feminize your voice, you should try to do so by voice training first before deciding to get surgery. Some great Youtube channels to get you started are [TransVoiceLessons], [Seattle Voice Lab], and [Undead Voice Lab]. There are many others you can use as well and some even have personalized lessons.
 
 There are three primary aspects of your voice to change in order to feminize it. These are pitch, vocal weight, and resonance. Essentially, what you are trying to do is heighten pitch, shrink the space in your throat, and raise your larynx. Doing all of that right from the get-go is very difficult, so focus on just one aspect at a time. It is important to use guides to make sure you aren't doing something that is actually harming your voice.
 
