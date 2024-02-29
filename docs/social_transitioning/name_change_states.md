@@ -8,12 +8,23 @@ has_children: false
 <!--&#10060; is a red x | &#9989; is a green check-->
 
 # Name Change Information | United States
+{: .no_toc }
 
 <p style="font-size:0.8em;">Last Updated: March 2024</p>
 
 <p>This is an alphabetical list containing the court websites to access all states' name change forms. Some states do not have any documentation on their court website to help you out. In this case, a link to an alternative website is used instead. Some states also include the option to change your sex along with your name. If you are planning to do that, note that you will likely need a letter of appropriate clinical treatment first. <a href="https://selfhelp.courts.ca.gov/gender-recognition/update-gender-marker-ID-documents">California</a> is one such state that does not require medical documentation. You can inquire with your gender services provider about obtaining a letter of ACT if you need it.</p>
 
 <p>If you notice anything that is incorrect or a broken link, please contact us here: transgenderwiki@protonmail.com</p>
+
+---
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
+---
 
 ## A
 
