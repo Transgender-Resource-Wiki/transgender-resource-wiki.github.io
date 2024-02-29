@@ -12,7 +12,7 @@ has_children: false
 
 <p style="font-size:0.8em;">Last Updated: March 2024</p>
 
-<p>This is an alphabetical list containing the court websites to access all states' name change forms. Some states do not have any documentation on their court website to help you out. In this case, a link to an alternative website is used instead. Some states also include the option to change your sex along with your name. If you are planning to do that, note that you will likely need a letter of appropriate clinical treatment first. <a href="https://selfhelp.courts.ca.gov/gender-recognition/update-gender-marker-ID-documents">California</a> is one such state that does not require medical documentation. You can inquire with your gender services provider about obtaining a letter of ACT if you need it.</p>
+<p>This is an alphabetical list containing the court websites to access all states' name change forms. Some states do not have any documentation on their court website to help you out. In this case, a link to an alternative website is used instead. Some states also include the option to change your sex along with your name. If you are planning to do that, note that you will likely need a letter of appropriate clinical treatment first. <a href="https://selfhelp.courts.ca.gov/gender-recognition/update-gender-marker-ID-documents">California</a> is one such state that does not require medical documentation. You can inquire with your gender services provider about obtaining a letter of ACT if you need it. States that use gender inclusive language on their forms are marked with a &#9989;. States that fail this use "he/she" on their forms, rather than using or including "they," or they use words like "you, I," and "petitioner" instead.</p>
 
 <p>If you notice anything that is incorrect or a broken link, please contact us here: transgenderwiki@protonmail.com</p>
 
@@ -205,13 +205,254 @@ has_children: false
 
 ## I
 
+[Idaho]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+
+[Idaho]: https://courtselfhelp.idaho.gov/Forms/name
+
+[Illinois]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Illinois]: https://www.illinoiscourts.gov/forms/approved-forms/forms-approved-forms-circuit-court/name-change
+
+[Indiana]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#9989;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Indiana]: https://www.indy.gov/activity/change-your-name
+
+[Iowa]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Iowa]: https://www.iowacourts.gov/for-the-public/representing-yourself/name-change
+
 ## K
+
+[Kansas]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Kansas]: https://www.kansasjudicialcouncil.org/legal-forms/adult-name-change
+
+[Kentucky]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Kentucky]: https://transequality.org/documents/state/kentucky
 
 ## L
 
+[Louisiana]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Louisiana]: https://transequality.org/documents/state/louisiana
+
 ## M
 
+[Maine]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Maine]: https://transequality.org/documents/state/maine
+
+[Maryland]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Maryland]: https://www.courts.state.md.us/legalhelp/family/namechange
+
+[Massachusetts]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Massachusetts]: https://www.mass.gov/name-changes
+
+[Michigan]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Michigan]: https://transequality.org/documents/state/michigan
+
+[Minnesota]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#9989;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Minnesota]: https://www.mncourts.gov/Help-Topics/Name-Change.aspx
+
+[Mississippi]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Mississippi]: https://www.aclu-ms.org/en/identity-document-resources
+
+[Missouri]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#10060;</td>
+  </tr>
+</table> 
+
+[Missouri]: https://www.courts.mo.gov/page.jsp?id=3834
+
+[Montana]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Montana]: https://courts.mt.gov/Forms/namechange
+
 ## N
+
+[Nebraska]
+
+<table>
+  <tr>
+    <th>Includes Gender Change Option</th>
+    <th>Uses Gender Inclusive Language</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">&#10060;</td>
+    <td style="text-align:center">&#9989;</td>
+  </tr>
+</table> 
+
+[Nebraska]: https://supremecourt.nebraska.gov/self-help/name-change/adult-name-change
 
 ## O
 
