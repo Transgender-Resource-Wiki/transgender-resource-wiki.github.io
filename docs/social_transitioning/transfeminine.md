@@ -37,6 +37,8 @@ Some transfeminine people choose to change their name and some don't. If they do
 
 ### United States
 
+[NCTE's ID Documents Center]&#58; Detailed guide for changing name and gender in every state and territory.
+
 [Translifeline's ID Change Library]&#58; Database of forms and documents related to changing your ID.
 
 ### Canada
@@ -73,6 +75,7 @@ Voice training is something that will take a few months to get the hang of and p
 
 [Social Transitioning]: {% link docs/social_transitioning/social_transitioning.md %}
 
+[NCTE's ID Documents Center]: https://transequality.org/documents
 [Translifeline's ID Change Library]: https://translifeline.org/resources/id-change-library/#namechange
 [JusticeTrans Legal Information]: https://justicetrans.org/en/provincial-info/
 
