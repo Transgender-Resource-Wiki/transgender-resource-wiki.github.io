@@ -37,15 +37,15 @@ Some transfeminine people choose to change their name and some don't. If they do
 
 ### United States
 
-[NCTE's ID Documents Center]&#58; Detailed guide for changing name and gender in every state and territory.
+[NCTE's ID Documents Center] | Detailed guide for changing name and gender in every state and territory.
 
-[Translifeline's ID Change Library]&#58; Database of forms and documents related to changing your ID.
+[Translifeline's ID Change Library] | Database of forms and documents related to changing your ID.
 
-[TRL's US Court Name Change Site List]&#58; A list containing official court self-help website links to states' name change forms.
+[TRL's US Court Name Change Site List] | A list containing official court self-help website links to states' name change forms.
 
 ### Canada
 
-[JusticeTrans Legal Information]&#58; Contains more information than just for name and gender changes. You might have to scroll down a little bit to find it.
+[JusticeTrans Legal Information] | Contains more information than just for name and gender changes. You might have to scroll down a little bit to find it.
 
 ## Appearance
 
