@@ -16,7 +16,7 @@ has_children: false
 
 <p>This is an alphabetical list containing the court websites to access all states' name change forms. Some states do not have any documentation on their court website to help you out. In this case, a link to an alternative website is used instead. Some states also include the option to change your sex along with your name on their form. If you are planning to do that, note that you will likely need a letter of appropriate clinical treatment first. <a href="https://selfhelp.courts.ca.gov/gender-recognition/update-gender-marker-ID-documents">California</a> is one such state that does not require medical documentation. You can inquire with your gender services provider about obtaining a letter of ACT if you need it. Note that just because a state does not include the option to change your sex in their name change application, that does not necessarily mean you cannot file a sex change application along with the name change application.
 <br/><br/>
-States that use gender inclusive language on their forms are marked with a &#9989;. States that fail this use "he/she" on their forms, rather than using or including "they," or words like "you, I," and "petitioner" instead.</p>
+States that use gender inclusive language on their forms are marked with a &#9989;. States that fail this use "he/she" on their forms, rather than using or including "they," or using words like "you, I," and "petitioner" instead.</p>
 
 <p>If you notice anything that is incorrect or a broken link, please contact us here: transgenderwiki@protonmail.com</p>
 
