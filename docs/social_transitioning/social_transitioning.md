@@ -20,4 +20,10 @@ Voice can be changed via voice training, which doesn't require hormones* or surg
 </span>
 </div>
 
+## Coming Out
+
+<p>Another part of social transitioning is coming out. For many people, this is not an easy thing to do. <b>Take your time with it. Don't let people push you to come out when you aren't ready.</b> If you aren't sure how the people in your life will react to you coming out, you can try to sneakily get their opinion on transgender and gender nonconforming people. One way is to wait for something pertaining to transgender people to come on the news or TV to see how they will react to it. You could also just ask them how they feel about transgender or gender nonconforming people, but try working it naturally into a conversation to avoid their suspicion. If you feel safe and ready to come out, some people do so by just "ripping the bandage off" and outright telling their family and friends that they are transgender or gender nonconforming, while others may prefer to drop hints instead. If you are in a situation where you are still dependent on your parents, and they don't seem like they would be supportive of you, you may unfortunately need to wait until you are capable of supporting yourself before coming out to them. In the meantime though, it is always a good idea to find a support network of other transgender and gender noncomforming people to help you out with your transition. Remember to use your best judgement, and to come out only when <b>you</b> are ready.</p>
+
+---
+
 <p>For more specific information on social transitioning see the table below. </p>
