@@ -41,11 +41,13 @@ Some transfeminine people choose to change their name and some don't. If they do
 
 [Translifeline's ID Change Library] | Database of forms and documents related to changing your ID.
 
-[TRL's US Court Name Change Site List] | A list containing official court self-help website links to states' name change forms.
+[TRL's US Court Name Change Site List] | A list containing official court self-help website links for states' name change forms.
 
 ### Canada
 
 [JusticeTrans Legal Information] | Contains more information than just for name and gender changes. You might have to scroll down a little bit to find it.
+
+[TRL's Canadian Government Name Change Site List] | A list containing official government self-help website links for provinces' & territories' name change forms.
 
 ## Appearance
 
@@ -81,6 +83,7 @@ Voice training is something that will take a few months to get the hang of and p
 [Translifeline's ID Change Library]: https://translifeline.org/resources/id-change-library/#namechange
 [TRL's US Court Name Change Site List]: {% link docs/social_transitioning/name_change_states.md %}
 [JusticeTrans Legal Information]: https://justicetrans.org/en/provincial-info/
+[TRL's Canadian Government Name Change Site List]: {% link docs/social_transitioning/name_change_provinces.md %}
 
 [TransVoiceLessons]: https://www.youtube.com/@TransVoiceLessons
 [Seattle Voice Lab]: https://www.youtube.com/@seattlevoicelab
