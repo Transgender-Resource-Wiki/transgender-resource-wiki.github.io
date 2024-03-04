@@ -25,15 +25,7 @@ Unfortunately, as transgender people, we have to watch out for our safety and do
                     <li>Avoid all other red/rural states</li>
                 </ul></li>
             <li>Eastern Europe</li>
-            <li>Cambodia</li>
-            <li>El Salvador</li>
-            <li>Guatemala</li>
-            <li>Guyana</li>
-            <li>Honduras</li>
-            <li>Panama</li>
-            <li>Paraguay</li>
-            <li>Philippines</li>
-            <li>Venezuela</li>
+            <li>Most of South America</li>
         </ul>
     </span>
 </div>
