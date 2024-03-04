@@ -74,4 +74,4 @@ For transmasculine people, taking masculinizing hormones will masculinize your v
 [JusticeTrans Legal Information]: https://justicetrans.org/en/provincial-info/
 [TRL's Canadian Government Name Change Site List]: {% link docs/social_transitioning/name_change_provinces.md %}
 
-[feminine voice]: {% link docs/social_transitioning/transfeminine.md#voice %}
+[feminine voice]: https://transgender-resource-wiki.github.io/docs/social_transitioning/transfeminine.html#voice
