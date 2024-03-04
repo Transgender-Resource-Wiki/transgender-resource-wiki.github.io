@@ -14,7 +14,7 @@ has_children: false
 
 <p>The following is not legal advice.</p>
 
-<p>This is an alphabetical list containing the government websites to access all provinces' and territories' name change forms. Some provinces/territories also include the option to change your sex along with your name on their form. If you are planning to do that, note that you may need supporting documentation first. You can inquire with your gender services provider about obtaining that documentation you need it. Note that just because a province/territory does not include the option to change your sex in their name change application, that does not necessarily mean you cannot file a sex change application along with the name change application.
+<p>This is an alphabetical list containing the government websites to access all provinces' and territories' name change forms. Some provinces/territories also include the option to change your sex along with your name on their form. If you are planning to do that, note that you may need supporting documentation first. You can inquire with your gender services provider about obtaining that documentation if you need it. Note that just because a province/territory does not include the option to change your sex in their name change application, that does not necessarily mean you cannot file a sex change application along with the name change application.
 <br/><br/>
 Provinces/territories that use gender inclusive language on their forms are marked with a &#9989;. Provinces/territories that fail this use "he/she" on their forms, rather than using or including "they," or using words like "you, I," and "petitioner" instead.</p>
 
